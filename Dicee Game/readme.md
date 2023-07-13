@@ -6,10 +6,10 @@ Here some example for every stuation for this website game.
 </p>
 
 <h4>Player 1 win</h4>
-<img>player1wins.png</img>
+<img src= "player1wins.png">
 
 <h4>Player 2 wins</h4>
-<img>player2wins.png</img>
+<img src="player2wins.png">
 
 <h4>If there is draw</h4>
-<img>draw.png</img>
+<img src="draw.png">
